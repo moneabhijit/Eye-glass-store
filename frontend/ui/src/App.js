@@ -1,9 +1,11 @@
+
 import './App.css';
+import Header from '../src/component/header/Header';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Eye glass store</h1>
+     <Header></Header>
     </div>
   );
 }

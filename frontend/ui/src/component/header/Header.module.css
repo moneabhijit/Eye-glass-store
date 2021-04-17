@@ -6,7 +6,9 @@
 }
 
 .head {
-    color: black;
+    color: #3f3d3d;
+    font-weight: 400 strong;
+    font-style:italic;
 }
 .span {
     color: black;
